@@ -36,9 +36,25 @@ ScaffoldingReadMe.txt
 # NuGet Symbol Packages
 *.snupkg
 
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+*.dll
+*.exe
+
+# Logs
+*.log
 # Others
 ~$*
 *~
+
 CodeCoverage/
 
 # MSBuild Binary and Structured Log
